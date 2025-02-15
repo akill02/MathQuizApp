@@ -20,7 +20,7 @@
 Welcome to the Math Quiz! Question 1: 5 + 3 = ? Your answer: 8 Correct!
 
 
-## Enhancements
+## Enhancements (Optional)
 - Add **database storage (SQLite)**.
 - Add **timer-based answers**.
 - Export results to **Excel using Apache POI**.
