@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Math Quiz Application
 
 ## Features
@@ -23,3 +24,7 @@ Welcome to the Math Quiz! Question 1: 5 + 3 = ? Your answer: 8 Correct!
 - Add **database storage (SQLite)**.
 - Add **timer-based answers**.
 - Export results to **Excel using Apache POI**.
+=======
+# MathQuizApp
+VirtuNexa Task1(Intern)
+>>>>>>> c23c09981bf45797ef2583f7ce65e3aeb3de33a1
